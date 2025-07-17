@@ -1,2 +1,2 @@
 # KotlinProject
-Only Kotlin Project
+This is my first Kotlin project
